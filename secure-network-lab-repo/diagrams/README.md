@@ -1,3 +1,3 @@
 # Network Diagrams
 
-Store network topology diagrams here.
+Network topology diagrams here.
